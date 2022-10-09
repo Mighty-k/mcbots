@@ -2,7 +2,7 @@
 	"ip":"KingOfAllTime1.aternos.me",
 	"port": 11363,
 	"name": "Kingsbot",
-	"auto-night-skip":"true",
+	"auto-night-skip":"false",
 	"login-enabled":"true",
 	"register-cmd":"/register (mighty2004) (mighty2004)",
 	"login-cmd":"/login (mighty2004)"
